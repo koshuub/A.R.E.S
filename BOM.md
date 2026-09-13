@@ -27,16 +27,24 @@ SG90 Micro Servo Motors — 4 pcs — 700 KGS total ($8.00 USD) — Source: Know
 
 18650 Li-Ion Batteries 3.7V High-Drain — 4 pcs — 2,280 KGS total ($26.00 USD) — Source: Geek.kg (Includes 2 spares)
 
-2S 18650 BMS Protection Board — 2 pcs — 200 KGS ($2.30 USD) — Source: Geek.kg
+2S 18650 BMS Protection Board — 2 pcs — 200 KGS ($2.30 USD) — Source: Geek.kg (Includes 1 spare)
+
+2-Slot 18650 Battery Holder — 2 pcs — 150 KGS ($1.70 USD) — Source: Geek.kg (Includes 1 spare; resolves battery wiring hazard)
+
+TP5100 2S Battery Charging Module — 2 pcs — 200 KGS ($2.30 USD) — Source: KnowHow.kg (Includes 1 spare; resolves inability to charge the 2S pack)
 
 LM2596 DC-DC Buck Converter Step-Down Module — 2 pcs — 440 KGS ($5.00 USD) — Source: Geek.kg / KnowHow.kg (Includes 1 spare)
 
-MB-102 Breadboard + Jumper Wires Pack — 2 sets — 600 KGS ($7.00 USD) — Source: KnowHow.kg (Includes 1 spare)
+MB-102 Breadboard + Jumper Wires Pack — 2 sets — 600 KGS ($7.00 USD) — Source: KnowHow.kg (Includes 1 spare; retained per your request)
+
+Soldering Perfboard Pack — 1 set — 150 KGS ($1.70 USD) — Source: KnowHow.kg (Added as a cheap backup in case the breadboard connections vibrate loose)
+
+M2/M3 Screw, Nut, and Standoff Assortment Kit — 1 set — 350 KGS ($4.00 USD) — Source: KnowHow.kg (Resolves missing mounting hardware)
 
 KCD1 Power Rocker Switch — 2 pcs — 90 KGS ($1.00 USD) — Source: KnowHow.kg / Geek.kg (Includes 1 spare)
 
 1KG Spool 1.75mm PLA Filament (for 3D printed body shell) — 1 spool — 1400 KGS ($16.00 USD) — Source: Local 3D Store Bishkek
 
-Total Estimated Budget: 11,230 KGS ($129.10 USD)
+Total Estimated Budget: 11,980 KGS ($137.70 USD)
 
 Nvm i actually did tweak the list (me koshuub) i jus added some spare parts JIC if we fry and burn something since things usually get messy when we try something... And yes the list is made with AI but the rest is surely hand written BY ME (koshuub) i actually had to rewrite both the list AND the readme since my friend (ataisenberg) jus used AI fully for both
