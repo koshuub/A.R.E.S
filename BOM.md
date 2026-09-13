@@ -1,4 +1,4 @@
-SO this is a list of materials that we kinda need the funding for our project A.R.E.S since we are broke
+SO this is a list of materials or a "Bill Of Materials" as the name says "BOM" that we kinda need the funding for our project A.R.E.S since we are broke
 
 This has all the info we and you need to think of how much funding we need to make da project
 
