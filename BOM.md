@@ -1,10 +1,12 @@
-Bill of Materials (BOM) — A.R.E.S. Rover Project
+SO this is a list of materials that we kinda need the funding for our project A.R.E.S since we are broke
 
-This document contains the itemized component list for building the A.R.E.S. (TwinkleBot) autonomous planetary rover. The project is designed for the Stardance Challenge hosted by Hack Club and NASA. 
+This has all the info we and you need to think of how much funding we need to make da project
 
-To prevent shipping delays from international sellers and allow immediate hardware assembly, all microcontrollers, sensors, mechanical drive parts, and power supplies are sourced directly from local electronics markets in Bishkek, Kyrgyzstan (primarily KnowHow.kg and Geek.kg). 
+Since we dont wanna wait for shipping and have issues with it (prolly hack club too) we have found everything we need locally with prices and pls give us more than my friend put here we might burn something T_T. We are ppl too we make mistakes T_T 
 
-The custom chassis, mounting brackets for the SG90 servos, and the protective Mars-rover style outer body shell will be 3D printed locally using a 1KG spool of 1.75mm PLA filament. Prices in USD are converted from local retail prices in Kyrgyz Som (KGS) at the current rate of 1 USD = 87 KGS.
+So we gonn 3d print it i think my friend fixed his 3d printer so we can print it on our own with 1.75 PLA filament and the prices will be in both currencies both USD and SOM (which is our Kyrgyz currency) and the rate of them is approximately 1 USD ~ 87 SOM without any other fees or taxes ig. And ye i think most of the stuff is cheap ig? idunno
+
+And the lst wasnt made by me (koshuub) it was made by my friend(ataisenberg) so idunno what things he added so pls give us more that he put here i think we will burn something FOR SURE
 
 1. ESP32-S3 N16R8 Dev Board (16MB Flash / 8MB PSRAM) — 1 pcs — 660 KGS ($7.60 USD) — Source: KnowHow.kg
 2. OV2640 Camera Module with Ribbon Cable — 1 pcs — 390 KGS ($4.50 USD) — Source: KnowHow.kg / Geek.kg
